@@ -5,7 +5,7 @@ I am a 15-year-old student and developer based in Mandi Gobindgarh, India. I am 
 ### 🚀 About Me
 * **Name:** Jashan Singh
 * **Focus:** AI Development, Linux systems, and Open-Source Intelligence (OSINT).
-* **Current Project:** [NOVA AI](https://mighty-jerry.github.io/Nova-Unrestricted-ai/) - An unrestricted AI assistant interface.
+* **Current Project:** [NOVA AI](https://mighty-jerry.github.io/Nova-Unrestricted-Ai/) - An unrestricted AI assistant interface.
 * **Tech Stack:** HTML, Python, and terminal-based tools.
 
 ### 🛠️ What I'm working on
