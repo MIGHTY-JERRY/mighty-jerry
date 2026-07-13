@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Jashan! 👋
 
-<!--
-**MIGHTY-JERRY/mighty-jerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 15-year-old student and developer based in Mandi Gobindgarh, India. I am passionate about building AI-powered tools and exploring cybersecurity.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* **Name:** Jashan Singh
+* **Focus:** AI Development, Linux systems, and Open-Source Intelligence (OSINT).
+* **Current Project:** [NOVA AI](https://mighty-jerry.github.io/Nova-Unrestricted-ai/) - An unrestricted AI assistant interface.
+* **Tech Stack:** HTML, Python, and terminal-based tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm working on
+I am working my skills while developing tools with passion with my chill mentality.
+
+### 🌐 Let's Connect
+* **GitHub:** [github.com/mighty-jerry](https://github.com/mighty-jerry)
+* **Projects:** [Live Demos](https://mighty-jerry.github.io/)
+
+
+---
+*Built with passion by a student developer in Punjab, India*
